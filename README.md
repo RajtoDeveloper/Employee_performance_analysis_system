@@ -18,11 +18,11 @@ This project enables HR teams or managers to:
 
 ## 🧠 Strategy & Logic
 
-- ✅ **Weighted Scoring System**: Calculates a custom `Productivity_Score` using a formula that includes training hours, performance scores, and more.
-- ✅ **Rule-Based Evaluation**: Flags employees for resignation risk, promotion eligibility, or training needs using logical conditions.
-- ✅ **Dynamic Report Generation**: Generates downloadable PDF evaluations based on current inputs.
-- ✅ **Session State Tracking**: Uses Streamlit session state to store user inputs temporarily.
-- ✅ **Data Visualizations**: Interactive charts powered by Plotly for insights by department and employee level.
+- **Weighted Scoring System**: Calculates a custom `Productivity_Score` using a formula that includes training hours, performance scores, and more.
+- **Rule-Based Evaluation**: Flags employees for resignation risk, promotion eligibility, or training needs using logical conditions.
+- **Dynamic Report Generation**: Generates downloadable PDF evaluations based on current inputs.
+- **Session State Tracking**: Uses Streamlit session state to store user inputs temporarily.
+- **Data Visualizations**: Interactive charts powered by Plotly for insights by department and employee level.
 
 ---
 
