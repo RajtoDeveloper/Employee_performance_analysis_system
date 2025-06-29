@@ -1,9 +1,27 @@
-
 # 📊 Employee Analytics Suite
 
 An interactive, multi-page analytics dashboard built with **Streamlit**, designed to analyze employee data, identify risk factors, evaluate performance, and generate personalized reports.
 
 ---
+
+# Problem Description
+The Employee Performance and Productivity Analytics System addresses the challenge of optimizing workforce management by providing actionable insights into employee performance, productivity, and retention risks. Traditional HR systems often lack predictive capabilities and comprehensive analytics, making it difficult for organizations to proactively address issues such as employee attrition, training needs, and promotion readiness. This system leverages machine learning techniques to analyze employee data, predict risks, and recommend interventions, enabling data-driven decision-making for HR professionals and managers.
+
+# Functionalities
+1.	Dashboard:
+- Displays key performance indicators (KPIs) such as average performance score, employee satisfaction, and resignation risk.
+- Visualizes performance distribution across the organization.
+2.	Employee Analysis:
+- Provides detailed profiles of individual employees, including tenure, performance scores, and department.
+- Generates personalized recommendations for retention, promotion, and training based on predictive models.
+3.	New Employee Evaluation:
+- Predicts the performance and resignation risk of new hires based on input metrics.
+- Offers actionable recommendations for onboarding and development.
+4.	Risk & Growth Insights:
+- Identifies employees at high risk of resignation using a simulated risk score.
+- Recommends promotion candidates based on performance, tenure, and training.
+- Highlights training needs for underperforming employees.
+- Alerts managers about employees with concerning sick leave patterns.
 
 ## 🚀 Quick Overview
 
